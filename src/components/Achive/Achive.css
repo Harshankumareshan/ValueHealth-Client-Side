@@ -1,0 +1,46 @@
+.partner-component {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .partner-image {
+    width: 100%; /* Adjust as needed */
+  /* Example width */
+    height: auto;
+  }
+  
+  .container-boxes {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px; /* Adjust spacing */
+    gap: 2rem;
+  }
+  .container-box li {
+    margin-bottom: 2.5rem; /* Adjust as needed */
+  }
+  
+  
+  .container-box {
+    flex: 1;
+    padding: 20px;
+    
+  }
+  
+  .container-box h3 {
+    margin-bottom: 10px;
+  }
+  
+  .orange-line {
+    width: 100%;
+    height: 2px;
+    background-color: rgb(253, 95, 16); /* Example line color */
+    margin: 20px 0; /* Adjust spacing */
+  }
+  
+ 
+  
+  
+  
+
+  
